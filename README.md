@@ -34,5 +34,4 @@ Detailed release notes for a given version can be found [on our releases page](h
 You may provide financial support for this project by donating [via Open Collective](https://opencollective.com/react-router). Thank you for your support!
 
 ## About
-
 React Router is developed and maintained by [Remix Software](https://remix.run) and many [amazing contributors](https://github.com/remix-run/react-router/graphs/contributors).
